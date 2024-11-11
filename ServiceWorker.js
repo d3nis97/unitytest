@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-FoxJump - Test-1.0";
 const contentToCache = [
     "Build/BuildGzip.loader.js",
-    "Build/BuildGzip.framework.js.gz",
-    "Build/BuildGzip.data.gz",
-    "Build/BuildGzip.wasm.gz",
+    "Build/BuildGzip.framework.js.unityweb",
+    "Build/BuildGzip.data.unityweb",
+    "Build/BuildGzip.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
