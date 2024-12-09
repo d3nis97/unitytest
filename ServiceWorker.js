@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-FoxJump - Test-1.0";
+const cacheName = "Denis-FortuneWheel-1.0.3";
 const contentToCache = [
-    "Build/BuildGzip.loader.js",
-    "Build/BuildGzip.framework.js.unityweb",
-    "Build/BuildGzip.data.unityweb",
-    "Build/BuildGzip.wasm.unityweb",
+    "Build/Wheel_webGL_01.loader.js",
+    "Build/Wheel_webGL_01.framework.js.unityweb",
+    "Build/Wheel_webGL_01.data.unityweb",
+    "Build/Wheel_webGL_01.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
