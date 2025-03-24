@@ -1,9 +1,9 @@
-const cacheName = "Denis-FortuneWheel-1.0.3";
+const cacheName = "DefaultCompany-Football-1.0";
 const contentToCache = [
-    "Build/Wheel_webGL_01.loader.js",
-    "Build/Wheel_webGL_01.framework.js.unityweb",
-    "Build/Wheel_webGL_01.data.unityweb",
-    "Build/Wheel_webGL_01.wasm.unityweb",
+    "Build/football.loader.js",
+    "Build/football.framework.js.unityweb",
+    "Build/football.data.unityweb",
+    "Build/football.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
