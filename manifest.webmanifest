@@ -1,6 +1,6 @@
 {
-    "name": "Football",
-    "short_name": "Football",
+    "name": "WordHunt",
+    "short_name": "WordHunt",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",

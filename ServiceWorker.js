@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Football-1.0";
+const cacheName = "DefaultCompany-WordHunt-1.0";
 const contentToCache = [
-    "Build/football.loader.js",
-    "Build/football.framework.js.unityweb",
-    "Build/football.data.unityweb",
-    "Build/football.wasm.unityweb",
+    "Build/huntwords.loader.js",
+    "Build/huntwords.framework.js.unityweb",
+    "Build/huntwords.data.unityweb",
+    "Build/huntwords.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
